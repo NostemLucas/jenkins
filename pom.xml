@@ -76,7 +76,7 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <!-- ACTUALIZAMOS AQUI -->
-            <version>1.18.20</version> 
+            <version>1.18.32</version> 
             <optional>true</optional>
         </dependency>
         <dependency>
